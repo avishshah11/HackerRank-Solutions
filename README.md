@@ -1,2 +1,2 @@
-# hackerrank_python
-hackerrank python solutions
+# HackeRrank-Solutions
+This are solutions of the problems I have solved on HackerRank. 
